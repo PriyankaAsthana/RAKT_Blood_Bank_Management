@@ -19,8 +19,9 @@ app.use(express.json())
 app.use(cors())
 app.use(morgan('dev'))
 
-const testRoutes = require('./routes/testRoutes'); 
-app.use('/api/v1/test', testRoutes); 
+//routes 
+app.use('/api/v1/test', require('./routes/testRoutes')); 
+app.use('/api/v1/auth', require('./routes/authRoutes'));
 
 const PORT = process.env.PORT || 5000;
 
