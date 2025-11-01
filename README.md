@@ -79,7 +79,7 @@ Under peer review (2025). Aligns with UN SDG 3 – Good Health & Well-being and 
 👩‍💻 Author
 Priyanka Asthana
 🎓 B.Tech (Hons) CSE | Minor in Robotics
-📍 India | 🌐 Portfolio | 💼 LinkedIn | 💻 GitHub
-📧 asthanapriyanka829@gmail.com
+📍 India 
+📧 pri45712rir@gmail.com
 
 <h3 align="center">🌟 Show some ❤️ by starring the repo! 🌟</h3> <p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/itsZed0/itsZed0/main/dino.gif" alt="dino" width="700"/> </p>
