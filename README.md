@@ -108,5 +108,3 @@ Priyanka Asthana
 📧 asthanapriyanka829@gmail.com
 
 <h3 align="center">🌟 Show some ❤️ by starring the repo! 🌟</h3> <p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/itsZed0/itsZed0/main/dino.gif" alt="dino" width="700"/> </p>
-
-<h3 align="center">🌟 If you found this project inspiring, give it a ⭐ and share to support open innovation 🌟</h3> <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/> </p> 
