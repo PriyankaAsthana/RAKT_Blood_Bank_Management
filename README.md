@@ -56,42 +56,17 @@ graph TD;
     C --> F[Admin Dashboard & Analytics]
 🧱 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,flask,git,tailwind,vscode,postman&theme=dark" /> </p>
-⚙️ Installation
 
 # Clone repository
 git clone https://github.com/yourusername/RAKT-BBMS.git
 
-# Install dependencies
-npm install && cd client && npm install
-
-# Add environment variables in .env
-MONGO_URI=your_mongo_connection
-JWT_SECRET=your_secret
-GOOGLE_API_KEY=your_api_key
-
-# Run backend
-npm start
-
-# Run frontend
-cd client && npm run dev
-<details> <summary><b>🧠 AI Matching Module (click to expand)</b></summary>
-python
-Copy code
-from sklearn.ensemble import RandomForestClassifier
-import numpy as np
-
-model = RandomForestClassifier()
-model.fit(X_train, y_train)
-
-def suggest_donor(blood_group, location):
-    prediction = model.predict([[blood_group, location]])
-    return prediction
 </details>
 🔮 Future Roadmap
 ✅ Phase I – MERN Stack core + Token System
 🚧 Phase II – AI donor recommendation engine
 🌐 Phase III – Cloud deployment + Geospatial mapping
 💫 Phase IV – Blockchain-based traceability
+
 🤖 Phase V – NLP chatbot for donor assistance
 
 📊 UI Snapshots
