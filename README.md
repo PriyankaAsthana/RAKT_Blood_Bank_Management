@@ -109,7 +109,7 @@ graph TD
 ## 📊 UI Snapshots
 
 <p align="center">
-  <img src="" width="700"/>
+  <img width="756" height="442" alt="Image" src="https://github.com/user-attachments/assets/217ad7fd-d80c-4160-98e9-a7baa420ce1b" />
   <br/>
   <sub><i>Dynamic dashboards and AI-powered donor matching in action</i></sub>
 </p>
