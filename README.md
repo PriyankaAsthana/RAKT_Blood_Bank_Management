@@ -1,7 +1,7 @@
 <!-- RAKT: Blood Bank Management System README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=🩸+RAKT+-+Token+%26+Location-Based+Blood+Bank+Management+System;AI-Driven+%7C+Geo-Intelligent+%7C+MERN+Stack+Innovation" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=...🩸+RAKT+-+Token+%26+Location-Based+Blood+Bank+Management+System;AI-Driven+%7C+Geo-Intelligent+%7C+MERN+Stack+Innovation" alt="Typing Animation" />
 </p>
 
 <p align="center">
