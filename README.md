@@ -109,7 +109,7 @@ graph TD
 ## 📊 UI Snapshots
 
 <p align="center">
-  <img src="https://github.com/yourusername/RAKT-BBMS/assets/placeholder/dashboard.gif" width="700"/>
+  <img src="https://github.com/PriyankaAsthana/RAKT-BBMS/assets/placeholder/dashboard.gif" width="700"/>
   <br/>
   <sub><i>Dynamic dashboards and AI-powered donor matching in action</i></sub>
 </p>
